@@ -1,1 +1,1 @@
-# techminer-example
+# Analysis of SofwareX Journal
